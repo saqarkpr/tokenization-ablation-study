@@ -1,0 +1,4 @@
+tag,n_params,final_val_loss,final_val_ppl,training_time_s
+layers2,1660416,4.0561,57.75,205.8
+layers4,2547840,4.0552,57.70,362.0
+layers6,3435264,4.1094,60.91,518.7

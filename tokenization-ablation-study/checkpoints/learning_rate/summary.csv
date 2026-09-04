@@ -1,0 +1,4 @@
+tag,n_params,final_val_loss,final_val_ppl,training_time_s
+lr1e-4,2547840,4.2864,72.70,361.8
+lr3e-4,2547840,4.0552,57.70,361.9
+lr1e-3,2547840,4.7007,110.02,363.6

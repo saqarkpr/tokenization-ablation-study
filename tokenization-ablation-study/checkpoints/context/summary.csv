@@ -1,0 +1,4 @@
+tag,n_params,final_val_loss,final_val_ppl,training_time_s
+ctx32,2547840,4.1045,60.61,87.1
+ctx128,2547840,4.0552,57.70,362.1
+ctx256,2547840,4.0888,59.66,870.5
