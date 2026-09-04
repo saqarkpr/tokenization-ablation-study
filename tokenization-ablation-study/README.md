@@ -4,8 +4,6 @@ This project trains the same decoder-only Transformer architecture with a
 byte-level BPE vocabulary instead of a character-level one, and runs a full
 ablation suite on the result.
 
-📄 **[Technical report (PDF)](report.pdf)** — 4–5 pages: full experimental detail, statistics, and limitations.
-
 Its real contribution is not the model. It is the demonstration that **you
 cannot interpret an ablation without first measuring your own noise floor**, and
 that doing so overturns two of this project's own apparent findings.
